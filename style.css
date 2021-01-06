@@ -110,12 +110,12 @@ p{
 }
 .work-checking{
     position: absolute;
-    bottom: 48%;
+    bottom: 150px;
     left: 22%;
 }
 .inquiry-button{
     position: absolute;
-    top:15%;
+    top:45px;
     right: 23%;
 }
 .form-title{
