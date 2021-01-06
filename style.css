@@ -61,6 +61,7 @@ p{
 }
 .working-aria{
   background-color: rgb(243, 243, 243);
+  padding-left: 8%;
 
 }
 .wroking-header{
@@ -68,11 +69,13 @@ p{
     padding-top: 30px;
 }
 .one-third-width{
-    display: inline-block;
-    width: 25%;
-    margin-left:5% ;
-    padding-left: 2%;   
-    float: left;
+  width: 25%;
+  background-color: white;
+  margin: 10px 15px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+  float: left;
 }
 .one-third-width img{
     width: 100%;
@@ -108,7 +111,7 @@ p{
 .form-page{
     text-align:left;
     margin-left: 10%;
-    color: blue;
+    color:hotpink;
     
 }
 .form-title{
@@ -118,7 +121,11 @@ p{
     margin-left: 10%;
     padding: 2px;
     color: white;
-    background-image: linear-gradient(90deg,rgb(86, 207, 255), blue);
+    background-image: linear-gradient(90deg,pink, rgb(255, 1, 107));
+}
+.form-button{
+    background: hotpink;
+    color: white;
 }
 .footer-section{
     text-align: center;
