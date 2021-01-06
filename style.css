@@ -96,6 +96,7 @@ p{
 
 }
 .inquiry{
+    height: 300px;
     position: relative;
     text-align: center;
     color: white;
@@ -109,12 +110,12 @@ p{
 }
 .work-checking{
     position: absolute;
-    bottom: 40%;
+    bottom: 48%;
     left: 22%;
 }
 .inquiry-button{
     position: absolute;
-    top: 18%;
+    top:15%;
     right: 23%;
 }
 .form-title{
