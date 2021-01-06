@@ -48,8 +48,7 @@ p{
   
 .half-width{
     width: 40%;
-    margin-left:5% ;
-    padding-left: 2%;   
+    margin-left:5% ;  
     float: left;
 
 }
@@ -115,7 +114,7 @@ p{
 }
 .inquiry-button{
     position: absolute;
-    top: 22%;
+    top: 18%;
     right: 23%;
 }
 .form-title{
