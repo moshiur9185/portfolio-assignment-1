@@ -1,0 +1,56 @@
+
+body{
+    margin: 0;
+    font-family: 'Padauk', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: rgb(114, 114, 114);
+}
+.navbar {
+    list-style-type: none;
+    margin-left: 70%;
+    padding: 0; 
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(78, 76, 76);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.half-width{
+    width: 40%;
+    margin-left:5% ;
+    padding-left: 2%;   
+    float: left;
+
+}
+.half-width img{
+    width: 100%;
+    padding-top: 20px;
+}
+.blue-highlight{
+    color: rgb(0, 140, 255);
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(90deg, orange, red);
+    padding: 10px 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    display: inline-block;
+}
