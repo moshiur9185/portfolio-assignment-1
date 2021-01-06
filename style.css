@@ -68,6 +68,7 @@ p{
     padding-top: 30px;
 }
 .one-third-width{
+    display: inline-block;
     width: 25%;
     margin-left:5% ;
     padding-left: 2%;   
@@ -103,6 +104,21 @@ p{
     position: absolute;
     top: 22%;
     right: 23%;
+}
+.form-page{
+    text-align:left;
+    margin-left: 10%;
+    color: blue;
+    
+}
+.form-title{
+    font-size: 20px;
+    text-align:left;
+    border-radius: 5px;
+    margin-left: 10%;
+    padding: 2px;
+    color: white;
+    background-image: linear-gradient(90deg,rgb(86, 207, 255), blue);
 }
 .footer-section{
     text-align: center;
