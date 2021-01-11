@@ -14,19 +14,22 @@ p{
 }
 .header-bar{
     height: 150px;
+    background-color: lightgray;
+    border-radius: 15px;
 
 }
 .logo{
     padding: 20px;
 }
 .logo img{
+    padding-top: 30px;
     width: 10%;
     
 }
 .navbar ul{
-    list-style-type: none;
+    list-style-type: none; 
     margin-left:100px;
-    padding: 0; 
+    padding-top:20px; 
     
   }
   
@@ -34,11 +37,15 @@ p{
     float: left;
   }
   
-  li a {
+  .navbar ul>li>a {
     display: block;
-    color: rgb(78, 76, 76);
+    border-radius: 5px;
+    color:white;
+    background-image: linear-gradient(90deg,skyblue, rgb(0, 81, 255));
     text-align: right;
-    padding: 14px 16px;
+    padding: 5px 10px;
+    margin-top: 15px;
+    margin-right: 10px;
     text-decoration: none;
   }
   .section{
